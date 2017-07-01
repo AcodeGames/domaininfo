@@ -1,0 +1,56 @@
+[
+  {
+    "url": "www.google.com",
+    "logo": "http://logo.clearbit.com/www.google.com",
+    "ip": "64.233.161.104",
+    "country": "US"
+  },
+  {
+    "url": "www.facebook.com",
+    "logo": "http://logo.clearbit.com/www.facebook.com",
+    "ip": "31.13.72.36",
+    "country": "IE"
+  },
+  {
+    "url": "www.microsoft.com",
+    "logo": "http://logo.clearbit.com/www.microsoft.com",
+    "ip": "104.126.170.184",
+    "country": "NL"
+  },
+  {
+    "url": "www.twitter.com",
+    "logo": "http://logo.clearbit.com/www.twitter.com",
+    "ip": "104.244.42.129",
+    "country": "US"
+  },
+  {
+    "url": "www.instagram.com",
+    "logo": "http://logo.clearbit.com/www.instagram.com",
+    "ip": "31.13.72.53",
+    "country": "IE"
+  },
+  {
+    "url": "www.hulu.com",
+    "logo": "http://logo.clearbit.com/www.hulu.com",
+    "ip": "104.126.165.183",
+    "country": "NL"
+  },
+  {
+    "url": "www.bing.com",
+    "logo": "http://logo.clearbit.com/www.bing.com",
+    "ip": "204.79.197.200",
+    "country": "US"
+  },
+  {
+    "url": "www.amazon.com",
+    "logo": "http://logo.clearbit.com/www.amazon.com",
+    "ip": "52.85.244.164",
+    "country": "US"
+  },
+  {
+    "url": "www.apple.com",
+    "logo": "http://logo.clearbit.com/www.apple.com",
+    "ip": "104.75.59.38",
+    "country": "NL"
+  }
+]
